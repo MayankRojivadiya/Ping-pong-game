@@ -15,6 +15,12 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
 
 ---
 
+## 🖼️ Preview
+
+![Game Preview](ping_pong_preview.png) <!-- Replace with your screenshot -->
+
+---
+
 ## 🛠️ Technologies Used
 
 - Python 3.x
@@ -29,11 +35,6 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
 
 ---
 
-## 🖼️ Preview
-
-![Game Preview](ping_pong_preview.png) <!-- Replace with your screenshot -->
-
----
 
 ## 📂 File Structure
 
