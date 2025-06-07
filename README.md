@@ -34,3 +34,7 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
   - `circle.py` (for center circle, if used)
 
 ---
+
+## How to Run
+```bash
+python Ping-pong-game.py
