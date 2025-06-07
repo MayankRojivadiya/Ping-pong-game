@@ -17,7 +17,7 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
 
 ## 🖼️ Preview
 
-![Game Preview](ping_pong_preview.png) <!-- Replace with your screenshot -->
+![Game Preview](/assets/preview(1).png) 
 
 ---
 
@@ -34,7 +34,3 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
   - `circle.py` (for center circle, if used)
 
 ---
-
-
-## 📂 File Structure
-
