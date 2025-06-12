@@ -31,7 +31,7 @@ A classic **two-player Ping Pong game** built in **Python** using the built-in *
   - `ball.py`
   - `score.py`
   - `border.py`
-  - `circle.py` (for center circle, if used)
+  - `circle.py` 
 
 ---
 
